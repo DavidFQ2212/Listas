@@ -12,9 +12,11 @@ package Container;
  * @author david
  */
 public class Main {
-    
+    //creamos el metodo main
     public static void main(String[] args) {
+        //cramos un objeto de la ventana visita
         Vista obj = new Vista();
+        //hacmeos que la haga visible
         obj.setVisible(true);
         
     }

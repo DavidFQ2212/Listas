@@ -92,12 +92,7 @@ if (lista.getSelectedIndex()==-1) {
     //si se selecciona realizara lo siguiente
     mensaje = "El consumible es: "+ lista.getSelectedValue().toString();
         txtMostrado.setText(mensaje);
-}
-         
-        
-      
-        
-        
+}    
     }//GEN-LAST:event_btnAceptarActionPerformed
 
     /**
